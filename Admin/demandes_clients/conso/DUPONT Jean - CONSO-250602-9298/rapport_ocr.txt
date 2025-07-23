@@ -1,0 +1,156 @@
+RAPPORT D'ANALYSE DE DOCUMENTS
+============================
+
+RÉSUMÉ EXÉCUTIF
+---------------
+Nombre de documents analysés: 9
+Concordance des informations: ❌ NON
+Nombre de problèmes détectés: 2
+PDFs traités: 7
+PDFs rejetés: 0
+Images générées: 9
+
+DÉTAILS DES DOCUMENTS
+--------------------
+
+📄 Document: bulletin_salaire_1_page_01.png
+   Type: BULLETIN_SALAIRE
+   Nom: Dupont Jean
+   Prénom: Jean
+   Date d'émission: ILLISIBLE
+   Qualité d'extraction:
+     • Qualité image: BONNE
+     • Confiance classification: HAUTE
+   Autres informations:
+     • nom_employe: Dupont Jean
+     • prenom_employe: Jean
+     • entreprise: Entreprise ABC
+     • numero_cnss: 123456
+     • poste: Analyste de données
+     • salaire_brut: 2,500.00 EUR
+     • salaire_net: 1,950.00 EUR
+     • periode: 05/2025
+
+📄 Document: CONSO-250602-9298_recapitulatif_page_01.png
+   Type: AUTRE (Récapitulatif de demande de crédit à la consommation)
+   Nom: DUPONT Jean
+   Date de naissance: 17/04/1988
+   Adresse: RUE DE LA REPUBLIQUE 20000
+   Qualité d'extraction:
+     • Qualité image: BONNE
+     • Confiance classification: HAUTE
+   Autres informations:
+     • lieu_naissance: PARIS
+     • nationalite: FRANCAISE
+     • telephone: 0667123467
+     • email: ouattaraismael1507@gmail.com
+     • type_logement: Locataire
+     • profession: Analyste de donnees
+     • employeur: Entreprise ABC
+     • anciennete: 2 ans
+     • revenu_mensuel: 19500 DH
+     • type_projet: Équipement maison
+     • description_projet: ACHAT DE MEUBLES
+     • montant_credit: 50000 DH
+     • duree_credit: 24 mois (2 ans)
+     • taux_interet: 6.5%
+     • mensualite_estimee: 2227.31 DH
+     • cout_total_credit: 3455.50 DH
+     • premier_remboursement: 01/07/2025
+     • reference_demande: CONSO-250602-9298
+     • date_soumission: 02/06/2025
+
+📄 Document: CONSO-250602-9298_recapitulatif_page_02.png
+   Type: AUTRE (Récapitulatif de demande de crédit)
+   Qualité d'extraction:
+     • Qualité image: BONNE
+     • Confiance classification: HAUTE
+
+📄 Document: devis_page_01.png
+   Type: AUTRE (Facture Proforma)
+   Date d'émission: 02/06/2025
+   Qualité d'extraction:
+     • Qualité image: BONNE
+     • Confiance classification: HAUTE
+   Autres informations:
+     • numero_facture: PRO-2025-0187
+     • date_echeance: 02/07/2025
+     • nom_client: Dupont Jean
+     • entreprise_client: Dupont Solutions
+     • adresse_client: 12 rue des Lilas, 75012 Paris
+     • telephone_client: 01 23 45 67 89
+     • total_ttc: 5 340,00 EUR
+
+📄 Document: justificatif_domicile_page_01.png
+   Type: AUTRE (Facture d'eau)
+   Nom: Dupont Jean
+   Adresse: 12 rue des Lilas, 75012 Paris
+   Numéro: 000123456
+   Date d'émission: 02/06/2025
+   Qualité d'extraction:
+     • Qualité image: BONNE
+     • Confiance classification: HAUTE
+   Autres informations:
+     • fournisseur: Société des Eaux Urbaines
+     • numero_client: 000123456
+     • nom_titulaire: Dupont Jean
+     • adresse_facturation: 12 rue des Lilas, 75012 Paris
+     • montant_a_payer: 95,00 EUR
+     • date_limite_paiement: 15/06/2025
+
+📄 Document: piece_identite_page_01.png
+   Type: AUTRE (Carte Nationale d'Identité Française)
+   Nom: DUPONT
+   Prénom: JEAN
+   Date de naissance: 17/04/1988
+   Numéro: 12AD34567
+   Date d'expiration: 16/04/2035
+   Qualité d'extraction:
+     • Qualité image: BONNE
+     • Confiance classification: HAUTE
+
+📄 Document: rapport_ocr_page_01.png
+   Type: AUTRE (Rapport d'analyse OCR)
+   Qualité d'extraction:
+     • Qualité image: BONNE
+     • Confiance classification: HAUTE
+
+📄 Document: rapport_ocr_page_02.png
+   Type: AUTRE (Rapport d'analyse OCR)
+   Qualité d'extraction:
+     • Qualité image: BONNE
+     • Confiance classification: HAUTE
+
+📄 Document: releve_bancaire_1_page_01.png
+   Type: RELEVE_BANCAIRE
+   Nom: Dupont Jean
+   Numéro: FR76 3000 4000 5000 6000 1234 567
+   Qualité d'extraction:
+     • Qualité image: BONNE
+     • Confiance classification: HAUTE
+   Autres informations:
+     • banque: BANQUE FICTIVE INTERNATIONALE
+     • nom_titulaire: Dupont Jean
+     • numero_compte: FR76 3000 4000 5000 6000 1234 567
+     • periode_releve: du 01/05/2025 au 31/05/2025
+     • solde_initial: 2 350,00 EUR
+     • solde_final: 3 778,47 EUR
+
+ANALYSE DE CONCORDANCE
+--------------------
+❌ Des problèmes de concordance ont été détectés:
+
+1. Discordance des noms: Dupont Jean (bulletin_salaire_1_page_01.png), DUPONT Jean (CONSO-250602-9298_recapitulatif_page_01.png), Dupont Jean (justificatif_domicile_page_01.png), DUPONT (piece_identite_page_01.png), Dupont Jean (releve_bancaire_1_page_01.png)
+2. Possible discordance des adresses détectée entre 2 groupes différents
+
+RECOMMANDATIONS
+---------------
+⚠️ VÉRIFICATION MANUELLE REQUISE
+Des incohérences ont été détectées. Il est recommandé de:
+• Vérifier manuellement les documents présentant des discordances
+• Demander des documents de remplacement si nécessaire
+• Contacter le demandeur pour clarification
+
+==================================================
+Rapport généré automatiquement par le système d'analyse de documents
+Date de génération: 2025-07-11 03:20:15

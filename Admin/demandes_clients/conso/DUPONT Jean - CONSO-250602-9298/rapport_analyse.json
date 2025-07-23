@@ -1,0 +1,227 @@
+{
+  "resume": {
+    "nombre_documents": 9,
+    "concordance": false,
+    "nombre_problemes": 2,
+    "score_confiance": 0
+  },
+  "documents": {
+    "bulletin_salaire_1_page_01.png": {
+      "type_document": "BULLETIN_SALAIRE",
+      "nom": "Dupont Jean",
+      "prenom": "Jean",
+      "date_naissance": null,
+      "numero_document": null,
+      "adresse": null,
+      "date_emission": "ILLISIBLE",
+      "date_expiration": null,
+      "autres_infos": {
+        "nom_employe": "Dupont Jean",
+        "prenom_employe": "Jean",
+        "entreprise": "Entreprise ABC",
+        "numero_cnss": "123456",
+        "poste": "Analyste de données",
+        "salaire_brut": "2,500.00 EUR",
+        "salaire_net": "1,950.00 EUR",
+        "periode": "05/2025",
+        "confiance_classification": "HAUTE",
+        "qualite_image": "BONNE",
+        "observations": [
+          "Le document est clair et lisible, mais la date d'émission n'est pas spécifiée.",
+          "Les montants sont en EUR, pas en DH."
+        ]
+      }
+    },
+    "CONSO-250602-9298_recapitulatif_page_01.png": {
+      "type_document": "AUTRE (Récapitulatif de demande de crédit à la consommation)",
+      "nom": "DUPONT Jean",
+      "prenom": null,
+      "date_naissance": "17/04/1988",
+      "numero_document": null,
+      "adresse": "RUE DE LA REPUBLIQUE 20000",
+      "date_emission": null,
+      "date_expiration": null,
+      "autres_infos": {
+        "lieu_naissance": "PARIS",
+        "nationalite": "FRANCAISE",
+        "telephone": "0667123467",
+        "email": "ouattaraismael1507@gmail.com",
+        "type_logement": "Locataire",
+        "profession": "Analyste de donnees",
+        "employeur": "Entreprise ABC",
+        "anciennete": "2 ans",
+        "revenu_mensuel": "19500 DH",
+        "type_projet": "Équipement maison",
+        "description_projet": "ACHAT DE MEUBLES",
+        "montant_credit": "50000 DH",
+        "duree_credit": "24 mois (2 ans)",
+        "taux_interet": "6.5%",
+        "mensualite_estimee": "2227.31 DH",
+        "cout_total_credit": "3455.50 DH",
+        "premier_remboursement": "01/07/2025",
+        "reference_demande": "CONSO-250602-9298",
+        "date_soumission": "02/06/2025",
+        "confiance_classification": "HAUTE",
+        "qualite_image": "BONNE",
+        "observations": [
+          "Le document est clair et toutes les informations sont lisibles.",
+          "Les montants sont bien indiqués en DH."
+        ]
+      }
+    },
+    "CONSO-250602-9298_recapitulatif_page_02.png": {
+      "type_document": "AUTRE (Récapitulatif de demande de crédit)",
+      "nom": null,
+      "prenom": null,
+      "date_naissance": null,
+      "numero_document": null,
+      "adresse": null,
+      "date_emission": null,
+      "date_expiration": null,
+      "autres_infos": {
+        "confiance_classification": "HAUTE",
+        "qualite_image": "BONNE",
+        "observations": [
+          "Le document est un récapitulatif de demande de crédit à la consommation.",
+          "Il ne contient pas d'informations personnelles ou financières spécifiques."
+        ]
+      }
+    },
+    "devis_page_01.png": {
+      "type_document": "AUTRE (Facture Proforma)",
+      "nom": null,
+      "prenom": null,
+      "date_naissance": null,
+      "numero_document": null,
+      "adresse": null,
+      "date_emission": "02/06/2025",
+      "date_expiration": null,
+      "autres_infos": {
+        "numero_facture": "PRO-2025-0187",
+        "date_echeance": "02/07/2025",
+        "nom_client": "Dupont Jean",
+        "entreprise_client": "Dupont Solutions",
+        "adresse_client": "12 rue des Lilas, 75012 Paris",
+        "telephone_client": "01 23 45 67 89",
+        "total_ttc": "5 340,00 EUR",
+        "confiance_classification": "HAUTE",
+        "qualite_image": "BONNE",
+        "observations": [
+          "Document clairement lisible et bien structuré.",
+          "Facture proforma sans valeur comptable.",
+          "Montants en EUR, pas en DH."
+        ]
+      }
+    },
+    "justificatif_domicile_page_01.png": {
+      "type_document": "AUTRE (Facture d'eau)",
+      "nom": "Dupont Jean",
+      "prenom": null,
+      "date_naissance": null,
+      "numero_document": "000123456",
+      "adresse": "12 rue des Lilas, 75012 Paris",
+      "date_emission": "02/06/2025",
+      "date_expiration": null,
+      "autres_infos": {
+        "fournisseur": "Société des Eaux Urbaines",
+        "numero_client": "000123456",
+        "nom_titulaire": "Dupont Jean",
+        "adresse_facturation": "12 rue des Lilas, 75012 Paris",
+        "montant_a_payer": "95,00 EUR",
+        "date_limite_paiement": "15/06/2025",
+        "confiance_classification": "HAUTE",
+        "qualite_image": "BONNE",
+        "observations": [
+          "Le document est clair et lisible.",
+          "La devise est en EUR, pas en DH."
+        ]
+      }
+    },
+    "piece_identite_page_01.png": {
+      "type_document": "AUTRE (Carte Nationale d'Identité Française)",
+      "nom": "DUPONT",
+      "prenom": "JEAN",
+      "date_naissance": "17/04/1988",
+      "numero_document": "12AD34567",
+      "adresse": null,
+      "date_emission": null,
+      "date_expiration": "16/04/2035",
+      "autres_infos": {
+        "confiance_classification": "HAUTE",
+        "qualite_image": "BONNE",
+        "observations": [
+          "Document non marocain, donc certaines informations spécifiques aux documents marocains ne sont pas applicables.",
+          "La qualité de l'image est bonne, toutes les informations sont lisibles."
+        ]
+      }
+    },
+    "rapport_ocr_page_01.png": {
+      "type_document": "AUTRE (Rapport d'analyse OCR)",
+      "nom": null,
+      "prenom": null,
+      "date_naissance": null,
+      "numero_document": null,
+      "adresse": null,
+      "date_emission": null,
+      "date_expiration": null,
+      "autres_infos": {
+        "confiance_classification": "HAUTE",
+        "qualite_image": "BONNE",
+        "observations": [
+          "Le document est un rapport d'analyse OCR, non un document administratif marocain standard.",
+          "Aucune information personnelle ou administrative spécifique n'est présente.",
+          "Le document indique des erreurs pour chaque fichier analysé."
+        ]
+      }
+    },
+    "rapport_ocr_page_02.png": {
+      "type_document": "AUTRE (Rapport d'analyse OCR)",
+      "nom": null,
+      "prenom": null,
+      "date_naissance": null,
+      "numero_document": null,
+      "adresse": null,
+      "date_emission": null,
+      "date_expiration": null,
+      "autres_infos": {
+        "confiance_classification": "HAUTE",
+        "qualite_image": "BONNE",
+        "observations": [
+          "Le document est un rapport d'analyse OCR indiquant des erreurs pour plusieurs fichiers.",
+          "Aucune donnée personnelle ou information spécifique n'est présente.",
+          "Le rapport mentionne que toutes les informations concordent entre les documents, mais cela ne concerne pas les détails individuels des documents administratifs."
+        ]
+      }
+    },
+    "releve_bancaire_1_page_01.png": {
+      "type_document": "RELEVE_BANCAIRE",
+      "nom": "Dupont Jean",
+      "prenom": null,
+      "date_naissance": null,
+      "numero_document": "FR76 3000 4000 5000 6000 1234 567",
+      "adresse": null,
+      "date_emission": null,
+      "date_expiration": null,
+      "autres_infos": {
+        "banque": "BANQUE FICTIVE INTERNATIONALE",
+        "nom_titulaire": "Dupont Jean",
+        "numero_compte": "FR76 3000 4000 5000 6000 1234 567",
+        "periode_releve": "du 01/05/2025 au 31/05/2025",
+        "solde_initial": "2 350,00 EUR",
+        "solde_final": "3 778,47 EUR",
+        "confiance_classification": "HAUTE",
+        "qualite_image": "BONNE",
+        "observations": [
+          "Le document est clair et lisible.",
+          "Les montants sont en EUR, pas en DH."
+        ]
+      }
+    }
+  },
+  "problemes_concordance": [
+    "Discordance des noms: Dupont Jean (bulletin_salaire_1_page_01.png), DUPONT Jean (CONSO-250602-9298_recapitulatif_page_01.png), Dupont Jean (justificatif_domicile_page_01.png), DUPONT (piece_identite_page_01.png), Dupont Jean (releve_bancaire_1_page_01.png)",
+    "Possible discordance des adresses détectée entre 2 groupes différents"
+  ],
+  "analyse_detaillee": {},
+  "timestamp": "2025-07-11T03:20:15.409157"
+}

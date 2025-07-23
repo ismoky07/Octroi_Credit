@@ -1,0 +1,67 @@
+RAPPORT D'ANALYSE DE DOCUMENTS
+============================
+
+RÉSUMÉ EXÉCUTIF
+---------------
+Nombre de documents analysés: 8
+Concordance des informations: ✅ OUI
+PDFs traités: 6
+PDFs rejetés: 0
+Images générées: 8
+
+DÉTAILS DES DOCUMENTS
+--------------------
+
+📄 Document: bulletin_salaire_1_page_01.png
+   Type: ERREUR
+   Autres informations:
+     • erreur: 'DocumentInfo' object has no attribute 'get'
+
+📄 Document: DECOUVERT-250603-33E9_recapitulatif_page_01.png
+   Type: ERREUR
+   Autres informations:
+     • erreur: 'DocumentInfo' object has no attribute 'get'
+
+📄 Document: DECOUVERT-250603-33E9_recapitulatif_page_02.png
+   Type: ERREUR
+   Autres informations:
+     • erreur: 'DocumentInfo' object has no attribute 'get'
+
+📄 Document: justificatif_domicile_page_01.png
+   Type: ERREUR
+   Autres informations:
+     • erreur: 'DocumentInfo' object has no attribute 'get'
+
+📄 Document: piece_identite_page_01.png
+   Type: ERREUR
+   Autres informations:
+     • erreur: 'DocumentInfo' object has no attribute 'get'
+
+📄 Document: rapport_ocr_page_01.png
+   Type: ERREUR
+   Autres informations:
+     • erreur: 'DocumentInfo' object has no attribute 'get'
+
+📄 Document: rapport_ocr_page_02.png
+   Type: ERREUR
+   Autres informations:
+     • erreur: 'DocumentInfo' object has no attribute 'get'
+
+📄 Document: releve_bancaire_1_page_01.png
+   Type: ERREUR
+   Autres informations:
+     • erreur: 'DocumentInfo' object has no attribute 'get'
+
+ANALYSE DE CONCORDANCE
+--------------------
+✅ Toutes les informations concordent entre les documents.
+Les données personnelles sont cohérentes à travers tous les documents analysés.
+
+RECOMMANDATIONS
+---------------
+✅ DOSSIER EXCELLENT
+Le dossier est de très haute qualité. Traitement automatique recommandé.
+
+==================================================
+Rapport généré automatiquement par le système d'analyse de documents
+Date de génération: 2025-07-10 15:05:34

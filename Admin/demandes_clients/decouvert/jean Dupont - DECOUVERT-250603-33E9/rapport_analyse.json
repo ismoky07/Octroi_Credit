@@ -1,0 +1,117 @@
+{
+  "resume": {
+    "nombre_documents": 8,
+    "concordance": true,
+    "nombre_problemes": 0,
+    "score_confiance": 0
+  },
+  "documents": {
+    "bulletin_salaire_1_page_01.png": {
+      "type_document": "ERREUR",
+      "nom": null,
+      "prenom": null,
+      "date_naissance": null,
+      "numero_document": null,
+      "adresse": null,
+      "date_emission": null,
+      "date_expiration": null,
+      "autres_infos": {
+        "erreur": "'DocumentInfo' object has no attribute 'get'"
+      }
+    },
+    "DECOUVERT-250603-33E9_recapitulatif_page_01.png": {
+      "type_document": "ERREUR",
+      "nom": null,
+      "prenom": null,
+      "date_naissance": null,
+      "numero_document": null,
+      "adresse": null,
+      "date_emission": null,
+      "date_expiration": null,
+      "autres_infos": {
+        "erreur": "'DocumentInfo' object has no attribute 'get'"
+      }
+    },
+    "DECOUVERT-250603-33E9_recapitulatif_page_02.png": {
+      "type_document": "ERREUR",
+      "nom": null,
+      "prenom": null,
+      "date_naissance": null,
+      "numero_document": null,
+      "adresse": null,
+      "date_emission": null,
+      "date_expiration": null,
+      "autres_infos": {
+        "erreur": "'DocumentInfo' object has no attribute 'get'"
+      }
+    },
+    "justificatif_domicile_page_01.png": {
+      "type_document": "ERREUR",
+      "nom": null,
+      "prenom": null,
+      "date_naissance": null,
+      "numero_document": null,
+      "adresse": null,
+      "date_emission": null,
+      "date_expiration": null,
+      "autres_infos": {
+        "erreur": "'DocumentInfo' object has no attribute 'get'"
+      }
+    },
+    "piece_identite_page_01.png": {
+      "type_document": "ERREUR",
+      "nom": null,
+      "prenom": null,
+      "date_naissance": null,
+      "numero_document": null,
+      "adresse": null,
+      "date_emission": null,
+      "date_expiration": null,
+      "autres_infos": {
+        "erreur": "'DocumentInfo' object has no attribute 'get'"
+      }
+    },
+    "rapport_ocr_page_01.png": {
+      "type_document": "ERREUR",
+      "nom": null,
+      "prenom": null,
+      "date_naissance": null,
+      "numero_document": null,
+      "adresse": null,
+      "date_emission": null,
+      "date_expiration": null,
+      "autres_infos": {
+        "erreur": "'DocumentInfo' object has no attribute 'get'"
+      }
+    },
+    "rapport_ocr_page_02.png": {
+      "type_document": "ERREUR",
+      "nom": null,
+      "prenom": null,
+      "date_naissance": null,
+      "numero_document": null,
+      "adresse": null,
+      "date_emission": null,
+      "date_expiration": null,
+      "autres_infos": {
+        "erreur": "'DocumentInfo' object has no attribute 'get'"
+      }
+    },
+    "releve_bancaire_1_page_01.png": {
+      "type_document": "ERREUR",
+      "nom": null,
+      "prenom": null,
+      "date_naissance": null,
+      "numero_document": null,
+      "adresse": null,
+      "date_emission": null,
+      "date_expiration": null,
+      "autres_infos": {
+        "erreur": "'DocumentInfo' object has no attribute 'get'"
+      }
+    }
+  },
+  "problemes_concordance": [],
+  "analyse_detaillee": {},
+  "timestamp": "2025-07-10T15:05:34.341935"
+}

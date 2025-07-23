@@ -1,0 +1,201 @@
+RAPPORT D'ANALYSE DE DOCUMENTS
+============================
+
+RÉSUMÉ EXÉCUTIF
+---------------
+Nombre de documents analysés: 11
+Concordance des informations: ❌ NON
+Nombre de problèmes détectés: 2
+PDFs traités: 6
+PDFs rejetés: 0
+Images générées: 11
+
+DÉTAILS DES DOCUMENTS
+--------------------
+
+📄 Document: bulletin_salaire_1_page_01.png
+   Type: BULLETIN_SALAIRE
+   Nom: Ouattara Ismael
+   Prénom: Ismael
+   Date d'émission: 31/07/2025
+   Qualité d'extraction:
+     • Qualité image: BONNE
+     • Confiance classification: HAUTE
+   Autres informations:
+     • nom_employe: Ouattara Ismael
+     • prenom_employe: Ismael
+     • entreprise: KERTYS
+     • numero_cnss: ILLISIBLE
+     • poste: Ingénieur
+     • salaire_brut: 10 000,00 DH
+     • salaire_net: 9 195,00 DH
+     • periode: 07/2025
+
+📄 Document: DECOUVERT-250711-5EFF_recapitulatif_page_01.png
+   Type: AUTRE (Récapitulatif de demande de découvert bancaire)
+   Nom: OUATTARA ISMAEL
+   Date de naissance: 01/01/1980
+   Adresse: 20000
+   Numéro: 12345678910
+   Qualité d'extraction:
+     • Qualité image: BONNE
+     • Confiance classification: HAUTE
+   Autres informations:
+     • lieu_naissance: OUANGOLO
+     • nationalite: IVOIRIENNE
+     • telephone: 0678734567
+     • email: test@test.com
+     • profession: ingenieur
+     • employeur: Kertys
+     • anciennete: 2
+     • revenu_mensuel: 10000 DH
+     • banque: Banque Crédit
+     • agence: CIH
+     • numero_compte: 12345678910
+     • date_ouverture: 01/01/2020
+     • mouvements_mensuels: 10000 DH
+     • montant_decouvert: 5000 DH
+     • type_decouvert: Court terme (3 mois)
+     • taux_interet_annuel: 12.0%
+     • motif_demande: test btes
+     • interets_3_mois: 150.00 DH
+     • commission_ouverture: 100 DH
+
+📄 Document: DECOUVERT-250711-5EFF_recapitulatif_page_02.png
+   Type: AUTRE (Récapitulatif de demande de découvert bancaire)
+   Qualité d'extraction:
+     • Qualité image: BONNE
+     • Confiance classification: HAUTE
+   Autres informations:
+     • date_soumission: 11/07/2025
+
+📄 Document: justificatif_domicile_page_01.png
+   Type: FACTURE_ELECTRICITE
+   Nom: Ouattara Ismael
+   Adresse: 123 Rue Mohammed V, Casablanca
+   Numéro: 987654321
+   Date d'émission: 31/07/2025
+   Qualité d'extraction:
+     • Qualité image: BONNE
+     • Confiance classification: HAUTE
+   Autres informations:
+     • fournisseur: ONEE - Office National de l'Électricité
+     • numero_client: 987654321
+     • nom_titulaire: Ouattara Ismael
+     • adresse_facturation: 123 Rue Mohammed V, Casablanca
+     • periode_facturation: Juillet 2025
+     • montant_a_payer: 390.45 DH
+     • date_limite_paiement: ILLISIBLE
+
+📄 Document: piece_identite_page_01.png
+   Type: AUTRE (Carte d'immatriculation)
+   Nom: OUATTARA ISMAEL
+   Date de naissance: 15/07/2000
+   Date d'émission: 29/05/2025
+   Date d'expiration: 29/05/2028
+   Qualité d'extraction:
+     • Qualité image: BONNE
+     • Confiance classification: HAUTE
+   Autres informations:
+     • nationalite: IVOIRIENNE
+     • numero: BE81011Y
+
+📄 Document: piece_identite_page_02.png
+   Type: AUTRE (Carte de séjour)
+   Nom: OUATTARA ISMAEL
+   Adresse: 7 RUE DJIBOUTI ETG 3 APPT 3 CASABLANCA
+   Qualité d'extraction:
+     • Qualité image: BONNE
+     • Confiance classification: HAUTE
+   Autres informations:
+     • numero_carte: BE81011Y
+     • motif_sejour: ETUDES
+
+📄 Document: rapport_ocr_page_01.png
+   Type: AUTRE (Récapitulatif de demande de découvert bancaire)
+   Nom: OUATTARA ISMAEL
+   Prénom: Ismael
+   Date de naissance: 01/01/1980
+   Adresse: 20000
+   Date d'émission: 31/07/2025
+   Qualité d'extraction:
+     • Qualité image: BONNE
+     • Confiance classification: HAUTE
+   Autres informations:
+     • nom_employe: Ouattara Ismael
+     • prenom_employe: Ismael
+     • numero: 12345678910
+
+📄 Document: rapport_ocr_page_02.png
+   Type: FACTURE_ELECTRICITE
+   Nom: Ouattara Ismael
+   Adresse: 123 Rue Mohammed V, Casablanca
+   Numéro: 987654321
+   Date d'émission: 31/07/2025
+   Qualité d'extraction:
+     • Qualité image: BONNE
+     • Confiance classification: HAUTE
+   Autres informations:
+     • fournisseur: ILLISIBLE
+     • numero_client: 987654321
+     • nom_titulaire: Ouattara Ismael
+     • adresse_facturation: 123 Rue Mohammed V, Casablanca
+     • periode_facturation: ILLISIBLE
+     • montant_a_payer: ILLISIBLE
+     • date_limite_paiement: ILLISIBLE
+
+📄 Document: rapport_ocr_page_03.png
+   Type: RELEVE_BANCAIRE
+   Nom: OUATTARA ISMAEL
+   Adresse: 7 RUE DJIBOUTI ETG 3 APPT 3 CASABLANCA
+   Numéro: 987654321
+   Date d'émission: ILLISIBLE
+   Date d'expiration: 29/05/2028
+   Qualité d'extraction:
+     • Qualité image: BONNE
+     • Confiance classification: HAUTE
+   Autres informations:
+     • nom_titulaire: OUATTARA ISMAEL
+     • numero_compte: 987654321
+     • adresse_facturation: 7 RUE DJIBOUTI ETG 3 APPT 3 CASABLANCA
+
+📄 Document: rapport_ocr_page_04.png
+   Type: AUTRE
+   Qualité d'extraction:
+     • Qualité image: FAIBLE
+     • Confiance classification: FAIBLE
+
+📄 Document: releve_bancaire_1_page_01.png
+   Type: RELEVE_BANCAIRE
+   Nom: Ouattara Ismael
+   Numéro: 123 456 789 000012345678 89
+   Date d'émission: ILLISIBLE
+   Qualité d'extraction:
+     • Qualité image: BONNE
+     • Confiance classification: HAUTE
+   Autres informations:
+     • banque: Banque Centrale Populaire
+     • nom_titulaire: Ouattara Ismael
+     • numero_compte: 123 456 789 000012345678 89
+     • periode_releve: du 01/07/2025 au 31/07/2025
+     • solde_initial: 0.00 DH
+     • solde_final: 7425.00 DH
+
+ANALYSE DE CONCORDANCE
+--------------------
+❌ Des problèmes de concordance ont été détectés:
+
+1. Discordance des dates de naissance: 01/01/1980 (DECOUVERT-250711-5EFF_recapitulatif_page_01.png), 15/07/2000 (piece_identite_page_01.png), 01/01/1980 (rapport_ocr_page_01.png)
+2. Possible discordance des adresses détectée entre 3 groupes différents
+
+RECOMMANDATIONS
+---------------
+⚠️ VÉRIFICATION MANUELLE REQUISE
+Des incohérences ont été détectées. Il est recommandé de:
+• Vérifier manuellement les documents présentant des discordances
+• Demander des documents de remplacement si nécessaire
+• Contacter le demandeur pour clarification
+
+==================================================
+Rapport généré automatiquement par le système d'analyse de documents
+Date de génération: 2025-07-11 09:25:06

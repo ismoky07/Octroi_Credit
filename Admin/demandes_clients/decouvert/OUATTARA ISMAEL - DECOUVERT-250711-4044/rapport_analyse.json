@@ -1,0 +1,181 @@
+{
+  "resume": {
+    "nombre_documents": 7,
+    "concordance": true,
+    "nombre_problemes": 0,
+    "score_confiance": 0
+  },
+  "documents": {
+    "bulletin_salaire_1_page_01.png": {
+      "type_document": "BULLETIN_SALAIRE",
+      "nom": "Ouattara Ismael",
+      "prenom": "Ismael",
+      "date_naissance": null,
+      "numero_document": null,
+      "adresse": null,
+      "date_emission": "31/07/2025",
+      "date_expiration": null,
+      "autres_infos": {
+        "nom_employe": "Ouattara Ismael",
+        "prenom_employe": "Ismael",
+        "entreprise": "KERTYS",
+        "poste": "Ingénieur",
+        "salaire_brut": "10 000,00 DH",
+        "salaire_net": "9 195,00 DH",
+        "periode": "07/2025",
+        "confiance_classification": "HAUTE",
+        "qualite_image": "BONNE",
+        "observations": [
+          "Le document est clair et lisible.",
+          "Les signatures ne sont pas remplies."
+        ]
+      }
+    },
+    "DECOUVERT-250711-4044_recapitulatif_page_01.png": {
+      "type_document": "AUTRE (Demande de découvert bancaire)",
+      "nom": "OUATTARA ISMAEL",
+      "prenom": null,
+      "date_naissance": "15/07/2000",
+      "numero_document": "12345678910",
+      "adresse": "7 rue djibouti etg 3 appt 3 Casablanca",
+      "date_emission": null,
+      "date_expiration": null,
+      "autres_infos": {
+        "lieu_naissance": "OUANNGOLO",
+        "nationalite": "IVOIRIENNE",
+        "telephone": "0789456763",
+        "email": "TEST@TEST.COM",
+        "profession": "INGENIEUR",
+        "employeur": "KERTYS",
+        "anciennete": "2",
+        "revenu_mensuel": "10000 DH",
+        "banque": "Banque Crédit",
+        "agence": "CIH",
+        "numero_compte": "12345678910",
+        "date_ouverture": "01/01/2020",
+        "mouvements_mensuels": "10000 DH",
+        "montant_decouvert": "5000 DH",
+        "type_decouvert": "Court terme (3 mois)",
+        "taux_interet_annuel": "12.0%",
+        "motif_demande": "TEST TEST",
+        "interets_3_mois": "150.00 DH",
+        "commission_ouverture": "100 DH",
+        "confiance_classification": "HAUTE",
+        "qualite_image": "BONNE",
+        "observations": [
+          "Le document est clair et toutes les informations sont lisibles.",
+          "Le format des dates a été normalisé en JJ/MM/AAAA."
+        ]
+      }
+    },
+    "DECOUVERT-250711-4044_recapitulatif_page_02.png": {
+      "type_document": "AUTRE (Récapitulatif de demande de découvert bancaire)",
+      "nom": null,
+      "prenom": null,
+      "date_naissance": null,
+      "numero_document": null,
+      "adresse": null,
+      "date_emission": null,
+      "date_expiration": null,
+      "autres_infos": {
+        "date_soumission": "11/07/2025",
+        "confiance_classification": "HAUTE",
+        "qualite_image": "BONNE",
+        "observations": [
+          "Le document est un récapitulatif de demande de découvert bancaire, pas un document administratif standard.",
+          "Aucune information personnelle spécifique n'est présente."
+        ]
+      }
+    },
+    "justificatif_domicile_page_01.png": {
+      "type_document": "FACTURE_ELECTRICITE",
+      "nom": "Ouattara Ismael",
+      "prenom": null,
+      "date_naissance": null,
+      "numero_document": "987654321",
+      "adresse": "7 rue djibouti etg 3 appt 3 Casablanca",
+      "date_emission": "31/07/2025",
+      "date_expiration": null,
+      "autres_infos": {
+        "fournisseur": "ONEE",
+        "numero_client": "987654321",
+        "nom_titulaire": "Ouattara Ismael",
+        "adresse_facturation": "7 rue djibouti etg 3 appt 3 Casablanca",
+        "periode_facturation": "Juillet 2025",
+        "montant_a_payer": "390.45 DH",
+        "date_limite_paiement": "ILLISIBLE",
+        "confiance_classification": "HAUTE",
+        "qualite_image": "BONNE",
+        "observations": [
+          "La date limite de paiement n'est pas mentionnée dans le document."
+        ]
+      }
+    },
+    "piece_identite_page_01.png": {
+      "type_document": "AUTRE (Carte d'immatriculation)",
+      "nom": "OUATTARA ISMAEL",
+      "prenom": null,
+      "date_naissance": "15/07/2000",
+      "numero_document": null,
+      "adresse": null,
+      "date_emission": "29/05/2025",
+      "date_expiration": "29/05/2028",
+      "autres_infos": {
+        "nationalite": "IVOIRIENNE",
+        "numero_document": "BE81011Y",
+        "confiance_classification": "HAUTE",
+        "qualite_image": "BONNE",
+        "observations": [
+          "Le document est une carte d'immatriculation, pas un document standard comme une CIN ou un passeport.",
+          "Les informations sont claires et lisibles."
+        ]
+      }
+    },
+    "piece_identite_page_02.png": {
+      "type_document": "AUTRE (Carte de séjour)",
+      "nom": "OUATTARA ISMAEL",
+      "prenom": null,
+      "date_naissance": null,
+      "numero_document": null,
+      "adresse": "7 RUE DJIBOUTI ETG 3 APPT 3 CASABLANCA",
+      "date_emission": null,
+      "date_expiration": null,
+      "autres_infos": {
+        "numero_carte": "BE81011Y",
+        "motif_sejour": "ETUDES",
+        "confiance_classification": "HAUTE",
+        "qualite_image": "BONNE",
+        "observations": [
+          "Le document semble être une carte de séjour pour études.",
+          "Les informations sont claires et lisibles."
+        ]
+      }
+    },
+    "releve_bancaire_1_page_01.png": {
+      "type_document": "RELEVE_BANCAIRE",
+      "nom": "Ouattara Ismael",
+      "prenom": null,
+      "date_naissance": null,
+      "numero_document": "123 456 789 000012345678 89",
+      "adresse": null,
+      "date_emission": null,
+      "date_expiration": null,
+      "autres_infos": {
+        "banque": "Banque Centrale Populaire",
+        "nom_titulaire": "Ouattara Ismael",
+        "numero_compte": "123 456 789 000012345678 89",
+        "periode_releve": "du 01/07/2025 au 31/07/2025",
+        "solde_initial": "0.00 DH",
+        "solde_final": "7425.00 DH",
+        "confiance_classification": "HAUTE",
+        "qualite_image": "BONNE",
+        "observations": [
+          "Le document est clair et lisible, toutes les informations sont extraites avec précision."
+        ]
+      }
+    }
+  },
+  "problemes_concordance": [],
+  "analyse_detaillee": {},
+  "timestamp": "2025-07-11T13:02:52.580904"
+}
